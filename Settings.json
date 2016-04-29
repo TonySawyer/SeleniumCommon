@@ -1,0 +1,16 @@
+﻿{
+    "Professional": {
+        "RootSiteUrl": "https://localhost:44302/",
+        "ApplicationName": "",
+        "DatabaseConnectionString": "Data Source=ONEPORT2; User Id=onemx64;Password=opentoall;",
+        "TakeDebugSnapshots": true,
+        "AdminUser": "julian.perrott@capita.co.uk",
+        "AdminPassword":  "Qwerty69"
+    },
+    "Citizen": {
+        "RootSiteUrl": "http://localhost/Citizen.Mvc",
+        "ApplicationName": "Citizenportal_356AAA",
+        "DatabaseConnectionString": "Data Source=ONEPORT2; User Id=onemx64;Password=opentoall;",
+        "TakeDebugSnapshots": true
+    }
+}
